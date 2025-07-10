@@ -61,7 +61,7 @@ export LANGCHAIN_API_KEY=ls-...
 
 ## Repo Structure
 
-The package is located within [langchain_benchmarks](./langchain_benchmarks/). Check out the [docs](https://langchain-ai.github.io/langchain-benchmarks/index.html) for information on how to get starte.
+The package is located within [langchain_benchmarks](./langchain_benchmarks/). Check out the [docs](https://langchain-ai.github.io/langchain-benchmarks/index.html) for information on how to get started.
 
 The other directories are legacy and may be moved in the future.
 
